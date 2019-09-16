@@ -44,11 +44,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="Microsoft.ReportViewer.Common.resources" version="14.0.0.0" publicKeyToken="89845DCD8080CC91" language="pt" processorArchitecture="msil" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.BonusSkins.v11.1.dll" size="5796864">
       <assemblyIdentity name="DevExpress.BonusSkins.v11.1" version="11.1.4.0" publicKeyToken="95FC6C5621878F0A" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -644,7 +639,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>D4uNAWSXL69zcTbH/2U81WbLlPc=</dsig:DigestValue>
+        <dsig:DigestValue>KqOxxFbudr9Wezu5F/uIoL3rcnM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
